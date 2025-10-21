@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&display=swap');
 
 html{
@@ -61,7 +60,6 @@ img {
        flex-direction: column;
        align-items: center;
        }
-=======
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&display=swap');
 
 html{
@@ -124,5 +122,4 @@ img {
        flex-direction: column;
        align-items: center;
        }
->>>>>>> d2065740404546be60467faf00dfc37f07ff5a7f
 }
