@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&display=swap');
 
 html{
@@ -60,4 +61,68 @@ img {
        flex-direction: column;
        align-items: center;
        }
+=======
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Single:wght@100..900&display=swap');
+
+html{
+    font-family: "Bitcount Single" ;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+/*menu de navegação*/
+
+nav{
+    text-align: center;
+}
+
+nav a {
+    color: #0a0a23;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    padding: 9px;
+    border-radius: 10px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+/*#lista {
+    list-style: nome;
+}*/
+
+nav li {
+    margin: 5px;
+}
+/*#lista li {
+    margin: 5px;
+}*/
+
+/*galeria*/
+
+img {
+    max-width: 280px;
+    height: auto;
+}
+
+#galeria {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+
+@media(max-width: 650px){
+    #galeria{
+       flex-direction: column;
+       align-items: center;
+       }
+>>>>>>> d2065740404546be60467faf00dfc37f07ff5a7f
 }
