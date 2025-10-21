@@ -41,5 +41,12 @@ O site foi desenvolvido como um exercício prático para aprender:
 - Git & GitHub
 - GitHub Pages
 
+---
+
+## 📚 Base do projeto
+
+- 📌 Projeto baseado em uma aula da **FreeCodeCamp Brasil**, com adaptações pessoais.
+
 ```bash
 git clone https://github.com/SymaraCamargo/site-sobre-gatos.git
+
